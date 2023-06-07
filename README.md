@@ -39,16 +39,16 @@ Procedure:
 ............
 
 
-## Program 
-// Roll no:
-
-//Name:
-MoveJ ................
-
 ## output : 
+![kine1](https://github.com/Ritika-2706/Lab-Ex.-No---8-Execute-a-program-for-pick-place-operations-in-Doosan-Industrial-Cobot-using-DRL-st/assets/93427238/e9df4271-46b4-4ae2-bde7-d791551a2aa3)
+![kine2](https://github.com/Ritika-2706/Lab-Ex.-No---8-Execute-a-program-for-pick-place-operations-in-Doosan-Industrial-Cobot-using-DRL-st/assets/93427238/d2be47e8-b8ea-40d4-bc4a-e9297a77aa12)
+
+
 
 
 ## Results: 
+A program for pick and place operations in Doosan Industrial Cobot using DRL studio has been executed successfully.
+
 
 
 
