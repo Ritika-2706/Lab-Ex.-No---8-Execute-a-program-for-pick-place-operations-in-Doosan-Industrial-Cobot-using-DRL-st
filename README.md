@@ -42,6 +42,9 @@ Procedure:
 ## output : 
 ![kine1](https://github.com/Ritika-2706/Lab-Ex.-No---8-Execute-a-program-for-pick-place-operations-in-Doosan-Industrial-Cobot-using-DRL-st/assets/93427238/e9df4271-46b4-4ae2-bde7-d791551a2aa3)
 ![kine2](https://github.com/Ritika-2706/Lab-Ex.-No---8-Execute-a-program-for-pick-place-operations-in-Doosan-Industrial-Cobot-using-DRL-st/assets/93427238/d2be47e8-b8ea-40d4-bc4a-e9297a77aa12)
+![kine3](https://github.com/Ritika-2706/Lab-Ex.-No---8-Execute-a-program-for-pick-place-operations-in-Doosan-Industrial-Cobot-using-DRL-st/assets/93427238/f01973dc-a409-4526-bb01-214ddf3fa02a)
+![kine4](https://github.com/Ritika-2706/Lab-Ex.-No---8-Execute-a-program-for-pick-place-operations-in-Doosan-Industrial-Cobot-using-DRL-st/assets/93427238/5544431b-1ab4-4d85-9f45-d887892d4226)
+
 
 
 
